@@ -4,7 +4,7 @@
     "post": {
       "belongsTo": "Post"
     }
-  }
+  },
   "Post": {
     "title": { "string": {} },
     "comments": {
