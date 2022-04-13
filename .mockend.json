@@ -1,4 +1,10 @@
 {
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
+  }
   "Post": {
     "title": { "string": {} },
     "comments": {
